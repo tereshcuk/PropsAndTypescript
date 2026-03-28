@@ -1,5 +1,5 @@
 // ProductCard.tsx
-import React from 'react';
+// import React from 'react';
 import type { ListingItem } from '../interfaces';
 
 interface ProductCardProps {
